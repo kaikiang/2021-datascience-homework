@@ -10,14 +10,14 @@ You can use [GitHub Desktop](https://desktop.github.com/) to update this reposit
 When you clone a repository you set up a copy on your computer. Run:
 
 ```bash
-git clone https://github.com/datascience-course/2021-datascience-homeworks
+git clone https://github.com/datascience-course/2021-datascience-homework
 ```
 
-This will create a folder `2021-datascience-homeworks` on your computer, with the individual homeworks in subdirectories.
+This will create a folder `2021-datascience-homework` on your computer, with the individual homeworks in subdirectories.
 
 ## Updating
 
-As we release new homeworks, or if we discover mistakes and update an already released homework description,  you'll have to update your repository. You can do this by changing into the `2021-datascience-homeworks` directory and executing:
+As we release new homeworks, or if we discover mistakes and update an already released homework description,  you'll have to update your repository. You can do this by changing into the `2021-datascience-homework` directory and executing:
 
 ```bash
 git pull
